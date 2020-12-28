@@ -1,0 +1,7 @@
+build steps:
+  extract colors:
+    enabled: yes
+    default file names:
+      - logotype.png
+      - logo.png
+      - square-cover-art.png

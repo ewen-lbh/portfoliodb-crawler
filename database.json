@@ -1,0 +1,197 @@
+[
+    {
+        "id": "condenses",
+        "metadata": {
+            "created": "2018-10-??",
+            "wip": true,
+            "tags": [
+                "science",
+                "school",
+                "book"
+            ],
+            "made with": [
+                "latex"
+            ],
+            "colors": {
+                "primary": "",
+                "secondary": "",
+                "tertiary": ""
+            }
+        },
+        "title": {
+            "default": "Condensés"
+        },
+        "paragraphs": {
+            "default": [
+                {
+                    "id": "",
+                    "content": "::fr_FR"
+                },
+                {
+                    "id": "",
+                    "content": "Depuis l’année dernière, j’ai décidé de compiler tout les cours de chaque année des matières scientifiques en un document, en ne laissant que l’essentiel. C’était aussi avec l’écriture de ces condensés que j’ai appris le language LaTeX"
+                },
+                {
+                    "id": "",
+                    "content": "<a href=\"/mnt/d/projects/.buildarea/database/condenses/condense-math-première.pdf\">Condensé de mathématiques de première</a><br/>\n<a href=\"/mnt/d/projects/.buildarea/database/condenses/condense-math-terminale.pdf\">Condensé de mathématiques de terminale</a><br/>\n<a href=\"/mnt/d/projects/.buildarea/database/condenses/condense-math-mpsi.pdf\">Condensé de mathématiques de MPSI</a>"
+                },
+                {
+                    "id": "",
+                    "content": "<a href=\"/mnt/d/projects/.buildarea/database/condenses/condense-physique-première.pdf\">Condensé de physique de première</a><br/>\n<a href=\"/mnt/d/projects/.buildarea/database/condenses/condense-physique-terminale.pdf\">Condensé de physique de terminale</a><br/>\n<a href=\"/mnt/d/projects/.buildarea/database/condenses/condense-physique-mpsi.pdf\">Condensé de physique de MPSI</a>"
+                }
+            ]
+        },
+        "media": {
+            "default": []
+        },
+        "links": {
+            "default": []
+        },
+        "footnotes": {
+            "default": []
+        }
+    },
+    {
+        "id": "phelng",
+        "metadata": {
+            "created": "????-??-??",
+            "wip": true,
+            "tags": [
+                "cli",
+                "program",
+                "automation"
+            ],
+            "categories": [
+                "software"
+            ],
+            "colors": {
+                "primary": "",
+                "secondary": "",
+                "tertiary": ""
+            },
+            "id": "phelng"
+        },
+        "title": {
+            "default": "phelng"
+        },
+        "paragraphs": {
+            "default": []
+        },
+        "media": {
+            "default": [
+                {
+                    "id": "phelng-logo",
+                    "alt": "Un logo compris d’un vinyle à étiquette rouge avec une flèche de téléchargement par-dessus",
+                    "title": "",
+                    "source": "/mnt/d/projects/.buildarea/database/phelng/phelng-logo.png",
+                    "content_type": "image/png",
+                    "size": 63245,
+                    "dimensions": {
+                        "width": 1760,
+                        "height": 1760,
+                        "aspect_ratio": 1
+                    },
+                    "duration": 0,
+                    "online": false
+                },
+                {
+                    "id": "phelng-wordmark",
+                    "alt": "Le logotype de phelng",
+                    "title": "",
+                    "source": "/mnt/d/projects/.buildarea/database/phelng/phelng-wordmark.png",
+                    "content_type": "image/png",
+                    "size": 145405,
+                    "dimensions": {
+                        "width": 3651,
+                        "height": 2653,
+                        "aspect_ratio": 1.376178
+                    },
+                    "duration": 0,
+                    "online": false
+                }
+            ]
+        },
+        "links": {
+            "default": []
+        },
+        "footnotes": {
+            "default": []
+        }
+    },
+    {
+        "id": "pychemin",
+        "metadata": {
+            "tags": [
+                "program",
+                "cli",
+                "language"
+            ],
+            "made with": [
+                "python",
+                "lark"
+            ],
+            "wip": true,
+            "colors": {
+                "primary": "",
+                "secondary": "",
+                "tertiary": ""
+            },
+            "created": "2020-??-??"
+        },
+        "title": {
+            "fr_FR": "PyChemin"
+        },
+        "paragraphs": {
+            "fr_FR": [
+                {
+                    "id": "",
+                    "content": "PyChemin est un langage de description d’aventure textuelles interactives."
+                },
+                {
+                    "id": "",
+                    "content": "Ce projet m’a permis de découvrir le processus de création d’un langage<br/>\ninformatique interpreté, avec la description formelle de la grammaire,<br/>\nle <em>lexing</em>, le <em>parsing</em>, et l’interprétation d’arbres<br/>\nde syntaxe abstraits (AST)."
+                },
+                {
+                    "id": "",
+                    "content": "Ce projet est aussi mon projet d’ISN de Terminale."
+                },
+                {
+                    "id": "",
+                    "content": "Le résultat que vous voyez ci-après a été obtenu avec le code suivant:"
+                }
+            ]
+        },
+        "media": {
+            "fr_FR": [
+                {
+                    "id": "logotype",
+                    "alt": "",
+                    "title": "",
+                    "source": "/mnt/d/projects/.buildarea/database/pychemin/logotype.png",
+                    "content_type": "image/png",
+                    "size": 8142,
+                    "dimensions": {
+                        "width": 1418,
+                        "height": 615,
+                        "aspect_ratio": 2.305691
+                    },
+                    "duration": 0,
+                    "online": false
+                }
+            ]
+        },
+        "links": {
+            "fr_FR": [
+                {
+                    "id": "Resultat-du-code-ci-dessus",
+                    "name": "Résultat du code ci-dessus",
+                    "title": "",
+                    "url": "/mnt/d/projects/.buildarea/database/pychemin/demo.mp4"
+                }
+            ]
+        },
+        "footnotes": {
+            "fr_FR": []
+        }
+    }
+]
